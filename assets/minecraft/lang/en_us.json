@@ -1,0 +1,10 @@
+{
+  "container.inventory": "",
+  "container.shulkerBox": "\u00a7fShulker Box",
+  "container.chest": "\u00a7fChest",
+  "container.chestDouble": "\u00a7fLarge Chest",
+  "container.brewing": "\u00a7fBrewing Stand",
+  "container.enderchest": "\u00a7fEnder Chest",
+  "container.enchant": "\u00a7fEnchant",
+  "container.barrel": "\u00a7fBarrel"
+}
