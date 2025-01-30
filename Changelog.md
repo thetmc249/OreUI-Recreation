@@ -1,3 +1,14 @@
+# Changelog for Release v1.1
+
+Small release this time all is left is the Advancements after this. Please post an Issue on GitHub if I've missed something else!
+
+## What's New
+
+- Hotbar now has an OreUI look (Thanks BoardSodie for the design!)
+![Minecraft Survival HUD the items are: Diamond Sword with 75% durability, Enchanted Netherite Pickaxe that's mostly new, Iron Axe, Iron Shovel, 33 Steak, 14 Porkchops, 32 Torches, 40 Dirt. Offhand has a Shield. The player has the 33 Steaks selected.](https://cdn.modrinth.com/data/cached_images/c61e552e01343966964ff04ee5d533033602defd.png)
+- Inverted the Lock Difficulty and Unlock Difficulty icons.
+- Tweaked Beacon's button.png
+
 # Changelog for Release V1.0
 
 ## Features
@@ -35,4 +46,4 @@
 ## Future Plans
 
 - Advancements GUI
-- I'm currently considering leaving the HUD untouched but if its something you want to be changed I may consider it. 
+- I'm currently considering leaving the HUD untouched but if its something you want to be changed I may consider it.
