@@ -1,0 +1,2 @@
+Thanks to @BoardSodie on GitHub for the Hotbar Design and @Pigzone00 on GitHub for initially posting the issue!
+https://github.com/thetmc249/OreUI-Recreation/issues/1
