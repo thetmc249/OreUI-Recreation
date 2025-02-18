@@ -5,9 +5,9 @@
 
 **[OptiGUI](https://modrinth.com/mod/optigui) is optional but highly recommended for certain blocks to have their own GUIs! (Optifine is supported mostly with the exception of Barrels)**
 
-## 1.21.4+ Only for now
+## 1.21.4+ Only! [For 1.20.1, switch to this branch!](https://github.com/thetmc249/OreUI-Recreation/tree/1.20.1-backport)
 
-Ore UI Recreation is a resource pack that tries to replicate the new Bedrock UI in Java with the  Chest, Ender Chest, and Shulker Box color coded UIs as well as matching the rest of the GUIs in the game with this 'rounded' style. (minus the controversal Horizontal Layout and HUD).
+Ore UI Recreation is a resource pack that tries to replicate the new Bedrock UI in Java with the  Chest, Ender Chest, and Shulker Box color coded UIs as well as matching the rest of the GUIs in the game with this 'rounded' style. (minus the controversal Horizontal Layout).
 
 Feedback & Suggestions are greatly appreciated via the Issues!
 
@@ -24,6 +24,6 @@ Feedback & Suggestions are greatly appreciated via the Issues!
 - BoardSodie for the Hotbar design
 - Pigzone00 for the inital Hotbar issue
 
-### What's Left?
+### What's Left and any Future Plans?
 
-With pretty much most of the in-game UIs finished the only things left is the Advancements UI. If there's anything else major I missed please create an issue on GitHub!
+With pretty much most of the in-game UIs finished the only things left is the Advancements UI. I'm also considering adding support for the Legacy4J Mod so you can experience the Legacy Console Edition but with the OreUI look! If there's anything else major I missed please create an issue on GitHub!
