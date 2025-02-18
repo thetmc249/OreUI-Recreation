@@ -1,3 +1,13 @@
+# Changelog for Release v1.1 **1.20.1 Backport**
+
+Created a backport for Minecraft 1.20.1 for those who may want to use it on the current popular version for Modded Minecraft!
+### Due to being a backport, there are some minor GUI limitations such as:
+
+- No custom selection slots
+- No custom tooltips
+- No custom scrollbars in menus
+- No custom textboxes
+
 # Changelog for Release v1.1
 
 Small release this time all is left is the Advancements after this. Please post an Issue on GitHub if I've missed something else!
