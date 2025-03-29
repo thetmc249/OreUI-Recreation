@@ -31,4 +31,4 @@ Feedback & Suggestions are greatly appreciated via the Issues!
 
 ### What's Left and any Future Plans?
 
-With pretty much most of the in-game UIs finished the only things left is the Advancements UI. I'm considering adding support for the Legacy4J Mod so you can experience the Legacy Console Edition but with the OreUI look! If there's anything else major I missed please create an issue on GitHub!
+With pretty much all of the in-game UIs finished, I'm planning to add support for other mods. Feel free to create an issue on GitHub on what mods you would want to be supported in the future!
