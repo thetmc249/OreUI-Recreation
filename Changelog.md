@@ -1,3 +1,14 @@
+# Changelog for Release v1.2 1.20.1 Backport
+## What's New
+- Advancements UI is now complete
+- Updated Gamemode Switcher selector slots
+- Added Legacy4J support
+
+
+## Fixed
+- Colored Shulker boxes now have an OptiGUI format as well as an Optifine format
+
+
 # Changelog for Release v1.1 **1.20.1 Backport**
 
 Created a backport for Minecraft 1.20.1 for those who may want to use it on the current popular version for Modded Minecraft!
