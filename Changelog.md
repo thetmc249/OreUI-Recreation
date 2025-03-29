@@ -1,3 +1,13 @@
+# Changelog for Release v1.2
+## What's New
+- Support for 1.21.5 
+- Advancements UI is now complete
+- Updated Gamemode Switcher selector slots
+- Added Legacy4J support
+## Legacy4J Notes
+ Unfortunately seems like the Legacy4J mod uses the same container sprite for all of the UIs, so I can't give each container their own look so they won't have their unique color coded containers :(
+## Fixed
+- Colored Shulker boxes now have an OptiGUI format as well as an Optifine format #6
 # Changelog for Release v1.1
 
 Small release this time all is left is the Advancements after this. Please post an Issue on GitHub if I've missed something else!
