@@ -1,3 +1,11 @@
+# Changelog for Release v1.3
+
+## What's New
+- Support for 1.21.6
+- Adjusted the Scroller color to match the buttons
+- Added the Dialog warning sprite
+
+
 # Changelog for Release v1.2
 ## What's New
 - Support for 1.21.5 

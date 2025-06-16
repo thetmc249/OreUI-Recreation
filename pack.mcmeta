@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 46,
-    "supported_formats": [46, 55],
+    "supported_formats": [46, 80],
     "description": "\u00a7bby tmc249\u00a7r - Recreation of the New OreUI-based containers"
   }
 }
