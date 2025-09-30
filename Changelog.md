@@ -1,3 +1,23 @@
+# Changelog for Release v2.0
+
+## What's New
+- Support for 1.21.9 The Copper Age Drop
+- Every container has been updated to now have squared off slots instead of rounded ones as of the current Ore UI assets in the current Bedrock Preview.
+- HUD also has square slots too (*Rounded slots alt available)
+- Slightly recolored the Normal Hearts and Hardcore ones in the HUD
+- Tooltips now have a new look
+- Arrows and Furnace Progress arrows have a new look
+- Chest and Ender Chest has a latch in their containers (*Alt available)
+- Added button sprites for Mod Menu to match the rest of the buttons in the Main Menu 
+
+## Fixed
+- Fixed the Legacy4J sprites so they aren't weirdly scaled and missing UI sprites.
+
+## Notes
+*There are some extra textures in the files with an -alt suffix you can rename if you prefer a certain thing. Also currently there's an unused Copper Chest container ready to be used until its possible in OptiGUI. 
+
+1.20.1 Backport will be updated soonish!
+
 # Changelog for Release v1.3
 
 ## What's New
