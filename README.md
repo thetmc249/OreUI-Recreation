@@ -5,7 +5,7 @@
 
 **[OptiGUI](https://modrinth.com/mod/optigui) is optional but highly recommended for certain blocks to have their own GUIs! (Optifine is supported mostly with the exception of Barrels)**
 
-## For 1.21.4 - 1.21.9 with a Backport for 1.20.1!
+## For 1.21.4 - 1.21.11 with a Backport for 1.20.1!
 
 Ore UI Recreation is a resource pack that tries to replicate the upcoming Bedrock UI in Java with the Chest, Ender Chest, and Shulker Box color coded UIs as well as matching the rest of the GUIs in the game with this refreshed style based off the Ore UI assets files in the Bedrock Preview.
 

@@ -1,3 +1,10 @@
+# Changelog for Release v2.1
+## What's New
+- Support for 1.21.11 Mounts of Mayhem
+- Updated the Furnace, Blast Furnace, and Smoker UI based off the recent Bedrock Preview 26.0.24 with its own colored container.
+- Added the Nautilus container.
+- Copper Chests has its own conainer UI via OptiGUI.
+
 # Changelog for Release v2.0
 
 ## What's New

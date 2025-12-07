@@ -3,7 +3,7 @@
     "pack_format": 46,
     "supported_formats": [46, 64],
     "min_format": [46],
-    "max_format": [69,0],
+    "max_format": [75,0],
     "description": "\u00a7bby tmc249\u00a7r - Recreation of the New OreUI-based containers"
   }
 }
