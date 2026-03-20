@@ -10,5 +10,6 @@
   "container.loom": "\u00a7fLoom",
   "container.cartography_table": "\u00a7fCartography Table",
   "container.upgrade": "\u00a7fUpgrade Gear",
-  "container.repair": "\u00a7fRepair & Name"
+  "container.repair": "\u00a7fRepair & Name",
+  "container.blast_furnace": "\u00a7fBlast Furnace"
 }

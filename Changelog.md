@@ -1,3 +1,8 @@
+# Changelog for Release v2.2
+## What's New
+- Support for 26.1 Tiny Takeover
+- Updated the Blast Furnace, and Smoker UI based off the recent 26.20 Bedrock Previews with its own dedicated container.
+
 # Changelog for Release v2.1
 ## What's New
 - Support for 1.21.11 Mounts of Mayhem
