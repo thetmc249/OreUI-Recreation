@@ -1,3 +1,15 @@
+# Changelog for Release v2.3
+## What's New
+- Support for 26.2 Chaos Cubed
+- Added the Friends screen
+- Changed Language, Accessibility, and Friends icons
+- Updated lots of assets from the recent Bedrock Previews such as:
+    - Hotbar
+    - Recipe Book
+    - Anvil
+    - Crafting Table
+    - Shulker Box
+    - Copper Chest
 # Changelog for Release v2.2
 ## What's New
 - Support for 26.1 Tiny Takeover
