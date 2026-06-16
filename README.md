@@ -12,7 +12,7 @@ Ore UI Recreation is a resource pack that tries to replicate the upcoming Bedroc
 Feedback & Suggestions are greatly appreciated via the Issues!
 
 ![Chest UI thats themed like the chest with a Diamond Sword and 5 Apples on the first 2 slots of the 3rd row with an empty inventory.](https://cdn.modrinth.com/data/cached_images/ca3b345e6c380458586ad173c924fd17d955652b.png)
-![Minecraft Survival HUD the items are: Diamond Sword with 75% durability, Enchanted Netherite Pickaxe that's mostly new, Iron Axe, Iron Shovel, 33 Steak, 14 Porkchops, 32 Torches, 40 Dirt. Offhand has a Shield. The player has the 33 Steaks selected.](https://cdn.modrinth.com/data/cached_images/39be9194d5861e39fb54eb30f2298a1f6a8435c4.png)
+![Minecraft Survival HUD the items are: Diamond Sword with 75% durability, Enchanted Netherite Pickaxe that's mostly new, Iron Axe, Iron Shovel, 33 Steak, 14 Porkchops, 32 Torches, 40 Dirt. Offhand has a Shield. The player has the 33 Steaks selected.](https://github.com/user-attachments/assets/88cafcba-0f71-4b35-a637-626d7fb69092)
 
 ### If you're looking for a Dark Mode variant check out these forks!
 [OreUI Recreation - Dark mode by Bartolommeo](https://modrinth.com/resourcepack/oreui-recreation-dark-mode)
