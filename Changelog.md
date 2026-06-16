@@ -4,8 +4,9 @@
 - Added the Friends screen
 - Changed Language, Accessibility, and Friends icons
 - Slightly changed the Bundle
+- Updated symbols in containers to the Ore UI version
 - Updated lots of assets from the recent Bedrock Previews such as:
-    - Hotbar
+    - Hotbar (Old one remains as an alt)
     - Recipe Book
     - Anvil
     - Crafting Table
