@@ -1,3 +1,7 @@
+# Changelog for Release v2.4
+## What's New
+- Support for 26.3 Wilderness Bound
+- Added Realm button assets
 # Changelog for Release v2.3
 ## What's New
 - Support for 26.2 Chaos Cubed
