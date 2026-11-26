@@ -1,3 +1,11 @@
+# Changelog for Release v2.5
+## What's New
+- Support for 26.4 Deep Freeze
+- Updated Friends assets
+- Updated Menu/Pause menu icons
+- Changed the Recipe Book icon 
+## Fixed
+- Fixed Mod Menu icons missing
 # Changelog for Release v2.4
 ## What's New
 - Support for 26.3 Wilderness Bound
